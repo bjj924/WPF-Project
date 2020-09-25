@@ -1,0 +1,17 @@
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\bin\Debug\netcoreapp3.0\ListBox.exe
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\bin\Debug\netcoreapp3.0\ListBox.deps.json
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\bin\Debug\netcoreapp3.0\ListBox.runtimeconfig.json
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\bin\Debug\netcoreapp3.0\ListBox.runtimeconfig.dev.json
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\bin\Debug\netcoreapp3.0\ListBox.dll
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\bin\Debug\netcoreapp3.0\ListBox.pdb
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox.csprojAssemblyReference.cache
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox_MarkupCompile.cache
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox_MarkupCompile.lref
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox.g.resources
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox.AssemblyInfoInputs.cache
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox.AssemblyInfo.cs
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox.dll
+C:\Users\Braian\Desktop\Git Repos\WPF-Project\WPF-Projects\SampleCrud\obj\Debug\netcoreapp3.0\ListBox.pdb

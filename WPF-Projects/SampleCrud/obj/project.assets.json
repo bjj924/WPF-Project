@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Braian\\Desktop\\Git Repos\\WPF-Project\\WPF-Projects\\SampleCrud\\SampleCrud.csproj",
-      "projectName": "SampleCrud",
-      "projectPath": "C:\\Users\\Braian\\Desktop\\Git Repos\\WPF-Project\\WPF-Projects\\SampleCrud\\SampleCrud.csproj",
+      "projectUniqueName": "C:\\Users\\Braian\\Desktop\\Git Repos\\WPF-Project\\WPF-Projects\\SampleCrud\\ListBox.csproj",
+      "projectName": "ListBox",
+      "projectPath": "C:\\Users\\Braian\\Desktop\\Git Repos\\WPF-Project\\WPF-Projects\\SampleCrud\\ListBox.csproj",
       "packagesPath": "C:\\Users\\Braian\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Braian\\Desktop\\Git Repos\\WPF-Project\\WPF-Projects\\SampleCrud\\obj\\",
       "projectStyle": "PackageReference",
