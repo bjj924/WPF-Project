@@ -27,12 +27,13 @@ namespace SampleCrud
             List<Match> matches = new List<Match>();
 
             matches.Add(
-                new Match() { 
-                Team1 = "River",
-                Team2 = "Bosta",
-                Score1 = 3,
-                Score2 = 1,
-                Comptition = 90
+                new Match()
+                {
+                    Team1 = "River",
+                    Team2 = "Bosta",
+                    Score1 = 3,
+                    Score2 = 1,
+                    Comptition = 90
                 });
 
             matches.Add(
@@ -54,16 +55,18 @@ namespace SampleCrud
                     Score2 = 1,
                     Comptition = 80
                 });
+
+            lbMatches.ItemsSource = matches;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (lblMatches.SelectedItem != null)
+            if (lbMatches.SelectedItem != null)
             {
-                MessageBox.Show("Select Match: " + (lblMatches.SelectedItem as Match).Team1 + " " +
-                    (lblMatches.SelectedItem as Match).Score1 + " " +
-                    (lblMatches.SelectedItem as Match).Score2 + " " +
-                    (lblMatches.SelectedItem as Match).Team2);
+                MessageBox.Show("Select Match: " + (lbMatches.SelectedItem as Match).Team1 + " " +
+                    (lbMatches.SelectedItem as Match).Score1 + " " +
+                    (lbMatches.SelectedItem as Match).Score2 + " " +
+                    (lbMatches.SelectedItem as Match).Team2);
             }
         }
     }
